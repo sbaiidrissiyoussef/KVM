@@ -29,3 +29,10 @@ Launch the installation of KVM on Redhat 8.1
 ```bash
 ./setup_kvm.sh
 ```
+
+### KVM Management
+KVM is strongly based on redhat's storage, on which its storage pools are based. To make sure that storage layer over the operating system and the one KVM uses is setup properly, i created a repository containing all the necessary commands and procedures to do that. 
+*Storage Repo : * https://github.com/sbaiidrissiyoussef/STORAGE
+
+
+
